@@ -1,0 +1,26 @@
+# CanvasSoul – Custom Shopify Theme for Selling Paintings 🎨
+
+A minimalist, elegant Shopify theme tailored for artists and painters to showcase and sell artwork online.
+
+## 📦 Features
+
+- Hero banner with CTA
+- Painting gallery (frontpage)
+- Custom product display with zoomable image and add to cart
+- Mobile-friendly layout
+- Simple, clean CSS styling
+- Easy to extend or customize
+
+## 🚀 How to Use
+
+### Option 1: Direct Upload (Easy)
+1. Download the ZIP of this repository.
+2. Go to your Shopify Admin > Online Store > Themes > Upload Theme.
+3. Upload and publish it.
+
+### Option 2: Shopify CLI
+1. Install [Shopify CLI](https://shopify.dev/docs/themes/tools/cli)
+2. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/shopify-painting-store-theme.git
+   cd shopify-painting-store-theme
