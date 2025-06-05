@@ -1,0 +1,14 @@
+shopify-painting-store-theme/
+├── assets/
+│   └── style.css
+│   └── "C:\Users\kadal\Downloads\paint.jpg"(optional placeholder)
+├── config/
+│   └── settings_schema.json
+├── layout/
+│   └── theme.liquid
+├── sections/
+│   └── "C:\Users\kadal\OneDrive\Pictures\paintings\WhatsApp Image 2025-06-05 at 10.51.04_fca844b7.jpg".liquid
+├── templates/
+│   └── index.liquid
+│   └── product.liquid
+├── README.md
